@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic"> -->
-![About Me](./images/AboutMe.png)
+<img src="./images/AboutMe.png" width="200" />
 
 Here is **Yibo Ma (马義波)**.<br>
 
@@ -16,6 +16,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 **<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
 Here is my Resume: [Resume](./file/CV-Yibo_Ma.pdf)
+
 ---
 
 ## Research Interests
