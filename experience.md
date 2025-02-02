@@ -15,7 +15,7 @@ title: Experience
     + Robotics
     + Engineering Drawing
 
-work:
+# Work:
 - Research Assistant<br>**Meituan**<br>*From 2024-12-01 To 2025-06-30*<br>Conducted research on:
     + Data center energy optimization
     + Bandwidth usage optimization

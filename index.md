@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="mayibo.jpg" class="floatpic">
+<img src="./images/mayibo.jpg" class="floatpic">
 <!-- <img src="./images/AboutMe.png" width="200" /> -->
 
 Here is **Yibo Ma (马義波)**.<br>
