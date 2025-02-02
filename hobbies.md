@@ -23,11 +23,11 @@ If you share a love for a fulfilling life beyond the busy work routine, feel fre
 
 ## Guitar
 
-<!-- <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div> -->
+<div class="third">
+<img src="/images/Band1.JPG">
+<img src="/images/Band2.JPG">
+<img src="/images/Band3.JPG">
+</div>
 <br>I developed a passion for guitar performance starting from middle school. Playing and singing pop songs, as well as fingerstyle playing, are my specialties. I achieved the China Guitar Grade 10 (the highest level of the China Musician Association Guitar Proficiency Examination, which is roughly equivalent to ABRSM Grade 8 in difficulty). The band I organized during my undergraduate years was well-loved both on and off campus. I hope to continue connecting with people who share a love for music.
 
 
