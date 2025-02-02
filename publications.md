@@ -8,21 +8,30 @@ title: Publications
 
 ## Conference Paper
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
+- **RENEW: Enhancing Real-World Mobile Network Energy Efficiency Using Digital Twin Systems**<br><u>Yibo Ma</u>, Tong Li~, Yu Li, Haifeng Wang, Hongqiao Gao, Yong Li~<br>*In Submission*
 
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
+- **Sustainable Connections: Exploring Energy Efficiency in 5G Networks**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Yong Li~<br>Proceedings of *the 20th International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2024)*.<br>Los Angeles, California, USA. December, 2024.<br>[<span style="color:rgb(62, 60, 60);">Paper</span>](https://doi.org/10.1145/3680121.3697806), [<span style="color:rgb(62, 60, 60);">Cite</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:Q345gveR0zEJ:scholar.google.com/&output=citation&scisdr=ClHX78QsEMvt0izSWwE:AFWwaeYAAAAAZ5_UQwGGv4UJbR_ZRvqpybs-ejk&scisig=AFWwaeYAAAAAZ5_UQwopArcDzMr9Y-a78hem7IA&scisf=4&ct=citation&cd=-1&hl=zh-CN), [<span style="color:rgb(62, 60, 60);">Data</span>](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5)
 
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and Hanlin Cai~<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
+<br>
 
-  <br>
+
+## Journal Paper
+
+- **Exploring Traffic Usage and Energy Consumption in 5G Networks: Overcoming Misalignment for Sustainability**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Li Yu<br>*In Submission*
+
+- **Mitigating Energy Consumption in Heterogeneous Mobile Networks through Data-Driven Optimization**<br><u>Yibo Ma</u>, Tong Li, Yan Zhou, Li Yu, Depeng Jin<br>IEEE *Transactions on Network and Service Management (TNSM)*, 2024.<br>[<span style="color:rgb(62, 60, 60);">Paper</span>](https://ieeexplore.ieee.org/abstract/document/10565848), [<span style="color:rgb(62, 60, 60);">Cite</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:hYoD-_oG2pwJ:scholar.google.com/&output=citation&scisdr=ClHX78QsEMvt0izS3uA:AFWwaeYAAAAAZ5_UxuAi8QBNl-iAQrzm5z7ne7c&scisig=AFWwaeYAAAAAZ5_Uxiz-mv37aYDHXsynS3I0Dn4&scisf=4&ct=citation&cd=-1&hl=zh-CN), [<span style="color:rgb(62, 60, 60);">Code</span>](https://github.com/tsinghua-fib-lab/REDEEM)
+
+- **Carbon emissions of 5G mobile networks in China**<br>Tong Li, Li Yu, <u>Yibo Ma</u>, Tong Duan, Wenzhen Huang, Yan Zhou, Depeng Jin, Yong Li~, Tao Jiang~<br>*Nature Sustainability*, 2023.<br>[<span style="color:rgb(62, 60, 60);">Paper</span>](https://www.nature.com/articles/s41893-023-01206-5), [<span style="color:rgb(62, 60, 60);">Cite</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:IjOrgD9SOjsJ:scholar.google.com/&output=citation&scisdr=ClHX78QsEMvt0izTtnY:AFWwaeYAAAAAZ5_VrnYLJjvLNU4pSYt8uJzu7BI&scisig=AFWwaeYAAAAAZ5_VrtKsHR-fpzDAqlN6ddNVs8I&scisf=4&ct=citation&cd=-1&hl=zh-CN), [<span style="color:rgb(62, 60, 60);">Code</span>](https://github.com/Tong89/Sustainability_5G)
+
+<br>
 
 ---
 
 ## Ongoing Project
 
-- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
+- Optimization of Large-Scale Geo-Distributed Data Centers: Bandwidth Utilization and Sustainability (Supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/))
 
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
+> This project focuses on optimizing **large-scale, geo-distributed data centers** to address **bandwidth utilization** and **sustainability** challenges, especially under conditions of the increased number of task. Our goal is to minimize remote access between data centers by strategically coordinating task computation and data placement, considering resource constraints and real-time task requirements. The optimization approach integrates city-level power supply factors and cross-regional task scheduling, aiming to reduce carbon emissions associated with data center operations. By dynamically managing task distribution and resource allocation, this project seeks to achieve a balance between performance efficiency and environmental sustainability.
 
 <br>
 
@@ -30,9 +39,9 @@ To match the ubiquitous connectivity and heterogeneous networking characteristic
 
 ## Degree Thesis
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
+- Time series data mining and its application in networks<br>**Yibo Ma** (Advisor: Yong Li).
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
+- Analysis of Fatigue Life and Testing Methods for Electromagnetic Servo Valve Spool Components<br>**Yibo Ma** (Advisor: Yaobao Yin). 
 
   <br>
 
@@ -40,10 +49,8 @@ To match the ubiquitous connectivity and heterogeneous networking characteristic
 
 ## Early Project
 
-- [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
+- The Impact of Deep 5G Mobile Network Adoption on Residential Power Systems<br>**Yibo Ma**(Advisors: Yong Li, Tong Li)
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- Lightweight Wearable Exoskeleton Lower Limb Assistive Device<br>*Outstanding Project at 2020 Tongji University Excellent Research Program.*<br>Jiuhai Yuan, **Yibo Ma**, Yuting Liu, Jiale Zhai, Dexin Lu (Advisors: Wanghui Bu)<br>The Second Prize at 9th Shanghai University Student Mechanical Engineering Innovation Competition (Top 10%), 2021.
 
   <br>
