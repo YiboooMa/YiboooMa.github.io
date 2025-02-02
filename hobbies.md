@@ -24,16 +24,16 @@ If you share a love for a fulfilling life beyond the busy work routine, feel fre
 ## Guitar
 
 <div class="third">
-<img src="/images/Band1.JPG">
-<img src="/images/Band2.JPG">
-<img src="/images/Band3.JPG">
+<img src="/images/Band1.jpg">
+<img src="/images/Band2.jpg">
+<img src="/images/Band3.jpg">
 </div>
 <br>I developed a passion for guitar performance starting from middle school. Playing and singing pop songs, as well as fingerstyle playing, are my specialties. I achieved the China Guitar Grade 10 (the highest level of the China Musician Association Guitar Proficiency Examination, which is roughly equivalent to ABRSM Grade 8 in difficulty). The band I organized during my undergraduate years was well-loved both on and off campus. I hope to continue connecting with people who share a love for music.
 
 
-## Past Hobbies
+## Reading
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+I love reading, especially books outside of computer science, such as those on economics, education, and astrophysics. Through reading, I seek to deepen my understanding of the universe and human civilization, and I also long to experience moving emotions—both of which are equally important to the meaning of my life and research.
 
 <!-- ## My Cat
 
