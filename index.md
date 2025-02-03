@@ -15,7 +15,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
-Here is my Resume: [Resume](./file/CV-Yibo_Ma.pdf)
+Here is my Resume and Research Proposal (RP): [Resume](./file/CV-Yibo_Ma.pdf), [RP](./file/RP_Yibo_Ma_NS.pdf)
 
 ---
 
