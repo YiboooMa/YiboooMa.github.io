@@ -4,11 +4,12 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: Dec 2024
+> Update: Aug 2025
 
 ## Scholarships
 
-- First-Class Chaozhou Talent Scholarship of Tsinghua University *(Top 6%)*, 2024-2025
+- Outstanding Master’s Thesis of Tsinghua University *(top 1 among 30+ students)*, 2025-2026
+- First-Class Chaozhou Talent Scholarship of Tsinghua University *(Top 5%)*, 2024-2025
 
 ## Competitions
 

@@ -7,6 +7,7 @@ title: Publications
 > (†: equal contribution, ~: corresponding author)
 
 ## Conference Paper
+- **TWINERGY: Digital Twin-Empowered Practical Energy Saving in Heterogeneous Mobile Networks**<br><u>Yibo Ma</u>, Haoye Chai, Sichang Liu,Li Yu, Yong Li~<br>*In Submission*
 
 - **RENEW: Enhancing Real-World Mobile Network Energy Efficiency Using Digital Twin Systems**<br><u>Yibo Ma</u>, Tong Li~, Yu Li, Haifeng Wang, Hongqiao Gao, Yong Li~<br>*In Submission*
 
@@ -16,6 +17,8 @@ title: Publications
 
 
 ## Journal Paper
+
+- **MobiFM: A Foundation Model for Mobile Data Forecasting**<br>Haoye Chai, Xiaoqian Qi, <u>Yibo Ma</u>, Zhaocheng Wang, Lei Yue, Yong Li~<br>*In Submission*
 
 - **Exploring Traffic Usage and Energy Consumption in 5G Networks: Overcoming Misalignment for Sustainability**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Li Yu<br>*In Submission*
 
@@ -29,13 +32,13 @@ title: Publications
 
 ## Ongoing Project
 
-- **Optimization of Large-Scale Geo-Distributed Data Centers: Bandwidth Utilization and Sustainability** (Supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/))
+- **Air Conditioning Energy Optimization for Office Equipment** (Supervised by [Prof. Mahesh K. Marina](https://homepages.inf.ed.ac.uk/mmarina/))
 
-> This project focuses on optimizing **large-scale, geo-distributed data centers** to address **bandwidth utilization** and **sustainability** challenges, especially under conditions of the increased number of task. Our goal is to minimize remote access between data centers by strategically coordinating task computation and data placement, considering resource constraints and real-time task requirements. The optimization approach integrates city-level power supply factors and cross-regional task scheduling, aiming to reduce carbon emissions associated with data center operations. By dynamically managing task distribution and resource allocation, this project seeks to achieve a balance between performance efficiency and environmental sustainability.
+> This project aims to analyze equipment status and environmental data to intelligently adjust air conditioning operations, ensuring required cooling conditions for equipment while minimizing energy consumption.
 
-- **A World Model-Based Framework for Energy Optimization in Mobile Networks** (Supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/))
+- **Enhancing Base Station Energy Efficiency in Large-Scale Heterogeneous Mobile Networks Under Real-World Constraints** (Supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/))
 
-> We propose a framework where a world model, grounded in fundamental model for mobile networks, empowers a reinforcement learning (RL) agent with proactive state input and multi-step planning capability. Specifically, the world model predicts cell-level user number and traffic volume, while a Temporal Graph Convolutional Network (TGCN) captures the spatiotemporal features of cells. These are fed into the RL agent for a two-stage decision process: determining the sleep status of base stations, and orchestrating service offloading. The agent's actions interact with the world model to simulate changes in energy consumption and network performance, while checking for violations of real-world network constraints. Multi-step rollout is used to gather long-term returns for training the agent.
+> This project focuses on improving the energy efficiency of base stations in large-scale heterogeneous mobile networks by considering real-world operational constraints and developing deployable control strategies.
 
 <br>
 
@@ -53,7 +56,9 @@ title: Publications
 
 ## Early Project
 
-- **The Impact of Deep 5G Mobile Network Adoption on Residential Power Systems**<br><u>Yibo Ma</u>(Advisors: Yong Li, Tong Li)
+- **Optimization of Large-Scale Geo-Distributed Data Centers: Bandwidth Utilization and Sustainability**<br><u>Yibo Ma</u> (Advisor: Yong Li).
+
+- **The Impact of Deep 5G Mobile Network Adoption on Residential Power Systems**<br><u>Yibo Ma</u>(Advisors: Yong Li, Tong Li)<br>*Awarded the Outstanding Master’s Thesis by Tsinghua University (top 1 among 30+ students)*<br>
 
 - **Lightweight Wearable Exoskeleton Lower Limb Assistive Device**<br>*Outstanding Project at 2020 Tongji University Excellent Research Program.*<br>Jiuhai Yuan, <u>Yibo Ma</u>, Yuting Liu, Jiale Zhai, Dexin Lu (Advisors: Wanghui Bu)<br>The Second Prize at 9th Shanghai University Student Mechanical Engineering Innovation Competition (Top 10%), 2021.
 

@@ -6,6 +6,7 @@ title: Experience
 
 # Education:
 
+- Ph.D. in Machine Learning Systems (Incoming)<br>University of Edinburgh<br>From 2025-09-01 To 2029-08-01
 - M.Eng. in Electronic and Information Engineering<br>**Tsinghua University**<br>*From 2022-09-01 To 2025-07-31*<br>Courses included:
     + Big Data Analytics
     + Machine Learning
