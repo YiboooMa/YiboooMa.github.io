@@ -31,10 +31,10 @@ title: Publications
 ---
 
 ## Ongoing Project
-
+<!-- 
 - **Air Conditioning Energy Optimization for Office Equipment** (Supervised by [Prof. Mahesh K. Marina](https://homepages.inf.ed.ac.uk/mmarina/))
 
-> This project aims to analyze equipment status and environmental data to intelligently adjust air conditioning operations, ensuring required cooling conditions for equipment while minimizing energy consumption.
+> This project aims to analyze equipment status and environmental data to intelligently adjust air conditioning operations, ensuring required cooling conditions for equipment while minimizing energy consumption. -->
 
 - **Enhancing Base Station Energy Efficiency in Large-Scale Heterogeneous Mobile Networks Under Real-World Constraints** (Supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/))
 
