@@ -46,9 +46,10 @@ title: Publications
 
 ## Degree Thesis
 
-- **A Data-Driven Study on Energy Consumption Optimization for Mobile Network Base Stations**<br><u>Yibo Ma</u> (Advisor: Yong Li).
+- **A Data-Driven Study on Energy Consumption Optimization for Mobile Network Base Stations**<br><u>Yibo Ma</u> (Advisor: Yong Li)
 
-- **Analysis of Fatigue Life and Testing Methods for Electromagnetic Servo Valve Spool Components**<br><u>Yibo Ma</u> (Advisor: Yaobao Yin). 
+- **Analysis of Fatigue Life and Testing Methods for Electromagnetic Servo Valve Spool Components**<br><u>Yibo Ma</u> (Advisor: Yaobao Yin)<br>
+*Awarded the Outstanding Master’s Thesis by Tsinghua University (top 1 among 30+ students)*
 
   <br>
 
@@ -56,10 +57,10 @@ title: Publications
 
 ## Early Project
 
-- **Optimization of Large-Scale Geo-Distributed Data Centers: Bandwidth Utilization and Sustainability**<br><u>Yibo Ma</u> (Advisor: Yong Li).
+- **Optimization of Large-Scale Geo-Distributed Data Centers: Bandwidth Utilization and Sustainability**<br><u>Yibo Ma</u> (Advisor: Yong Li)
 
-- **The Impact of Deep 5G Mobile Network Adoption on Residential Power Systems**<br><u>Yibo Ma</u>(Advisors: Yong Li, Tong Li)<br>*Awarded the Outstanding Master’s Thesis by Tsinghua University (top 1 among 30+ students)*<br>
+- **The Impact of Deep 5G Mobile Network Adoption on Residential Power Systems**<br><u>Yibo Ma</u>(Advisors: Yong Li, Tong Li)<br>
 
-- **Lightweight Wearable Exoskeleton Lower Limb Assistive Device**<br>*Outstanding Project at 2020 Tongji University Excellent Research Program.*<br>Jiuhai Yuan, <u>Yibo Ma</u>, Yuting Liu, Jiale Zhai, Dexin Lu (Advisors: Wanghui Bu)<br>The Second Prize at 9th Shanghai University Student Mechanical Engineering Innovation Competition (Top 10%), 2021.
+- **Lightweight Wearable Exoskeleton Lower Limb Assistive Device**<br>*Outstanding Project at 2020 Tongji University Excellent Research Program*<br>Jiuhai Yuan, <u>Yibo Ma</u>, Yuting Liu, Jiale Zhai, Dexin Lu (Advisors: Wanghui Bu)<br>The Second Prize at 9th Shanghai University Student Mechanical Engineering Innovation Competition (Top 10%), 2021
 
   <br>
