@@ -9,9 +9,11 @@ layout: page
 
 Here is **Yibo Ma (马義波)**.<br>
 
-In September 2025, I will start my Ph.D. in the [**Networked Systems (NetSys) Group**](https://netsys.inf.ed.ac.uk/) at the University of Edinburgh, supervised by [**Prof. Mahesh K. Marina**](https://homepages.inf.ed.ac.uk/mmarina/). I earned my M.S. degree at Tsinghua University under the guidance of [**Prof. Yong Li**](https://fi.ee.tsinghua.edu.cn/~liyong/), with my thesis receiving the Outstanding Thesis Award. Prior to that, I completed my B.S. degree at Tongji University, advised by [**Prof. Yaobao Yin**](https://mefaculty.tongji.edu.cn/info/1296/3241.htm).
+I am a first-year Ph.D. student in the [**UKRI Centre for Doctoral Training in Machine Learning Systems (MLSys CDT)**](https://mlsystems.uk) at the University of Edinburgh, supervised by [**Prof. Mahesh K. Marina**](https://homepages.inf.ed.ac.uk/mmarina/) and [**Prof. Amos Storkey**](https://homepages.inf.ed.ac.uk/amos/). I am also a member of the [**Networked Systems (NetSys) Group**](https://netsys.inf.ed.ac.uk/). My research lies at the intersection of **Networking and ML Systems**, with a focus on building intelligent, efficient, and robust networked systems.
 
-I am passionate about all aspects of **Networking and Artificial Intelligence**, and I am currently preparing to go to the Edinburgh for my Ph.D. studies. If you are interested in my research or potential collaborations, I am always open to discussion and new ideas. Feel free to reach out to me at <u>mayibo2hyh [at] gmail.com</u>.
+Previously, I obtained my M.S. degree from Tsinghua University under the supervision of [**Prof. Yong Li**](https://fi.ee.tsinghua.edu.cn/~liyong/), where my thesis was awarded the Outstanding Thesis Award. I earned my B.S. degree from Tongji University, advised by [**Prof. Yaobao Yin**](https://mefaculty.tongji.edu.cn/info/1296/3241.htm).
+
+I am always open to discussions and collaborations. Feel free to reach out to me at <u>mayibo2hyh [at] gmail.com</u>.
 
 <!-- Here is my Resume: [Resume](./file/CV-Yibo_Ma.pdf) -->
 
