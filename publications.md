@@ -46,10 +46,10 @@ title: Publications
 
 ## Degree Thesis
 
-- **A Data-Driven Study on Energy Consumption Optimization for Mobile Network Base Stations**<br><u>Yibo Ma</u> (Advisor: Yong Li)
-
-- **Analysis of Fatigue Life and Testing Methods for Electromagnetic Servo Valve Spool Components**<br><u>Yibo Ma</u> (Advisor: Yaobao Yin)<br>
+- **A Data-Driven Study on Energy Consumption Optimization for Mobile Network Base Stations**<br><u>Yibo Ma</u> (Advisor: Yong Li)<br>
 *Awarded the Outstanding Master’s Thesis by Tsinghua University (top 1 among 30+ students)*
+
+- **Analysis of Fatigue Life and Testing Methods for Electromagnetic Servo Valve Spool Components**<br><u>Yibo Ma</u> (Advisor: Yaobao Yin)
 
   <br>
 
