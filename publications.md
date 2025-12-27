@@ -6,27 +6,32 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Conference Paper
+## Conference Papers
+
+- **Sustainable Connections: Exploring Energy Efficiency in 5G Networks**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Yong Li~<br>Proceedings of *the 20th International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2024)*.<br>Los Angeles, California, USA. December, 2024.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://doi.org/10.1145/3680121.3697806), [<span style="color:rgba(57, 110, 197, 1);">Data</span>](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5)
+
 - **TWINERGY: Digital Twin-Empowered Practical Energy Saving in Heterogeneous Mobile Networks**<br><u>Yibo Ma</u>, Haoye Chai, Sichang Liu,Li Yu, Yong Li~<br>*In Submission*
 
 - **RENEW: Enhancing Real-World Mobile Network Energy Efficiency Using Digital Twin Systems**<br><u>Yibo Ma</u>, Tong Li~, Yu Li, Haifeng Wang, Hongqiao Gao, Yong Li~<br>*In Submission*
 
-- **Sustainable Connections: Exploring Energy Efficiency in 5G Networks**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Yong Li~<br>Proceedings of *the 20th International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2024)*.<br>Los Angeles, California, USA. December, 2024.<br>[<span style="color:rgb(25, 32, 94);">Paper</span>](https://doi.org/10.1145/3680121.3697806), [<span style="color:rgb(25, 32, 94);">Data</span>](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5)
-
 <br>
 
 
-## Journal Paper
+## Journal Papers
 
-- **MobiFM: A Foundation Model for Mobile Data Forecasting**<br>Haoye Chai, Xiaoqian Qi, <u>Yibo Ma</u>, Zhaocheng Wang, Lei Yue, Yong Li~<br>*In Submission*
+- **Mitigating Energy Consumption in Heterogeneous Mobile Networks through Data-Driven Optimization**<br><u>Yibo Ma</u>, Tong Li, Yan Zhou, Li Yu, Depeng Jin<br>IEEE *Transactions on Network and Service Management (TNSM)*, 2024.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://ieeexplore.ieee.org/abstract/document/10565848), [<span style="color:rgba(57, 110, 197, 1);">Code</span>](https://github.com/tsinghua-fib-lab/REDEEM)
+
+- **Carbon emissions of 5G mobile networks in China**<br>Tong Li, Li Yu, <u>Yibo Ma</u>, Tong Duan, Wenzhen Huang, Yan Zhou, Depeng Jin, Yong Li~, Tao Jiang~<br>*Nature Sustainability*, 2023.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://www.nature.com/articles/s41893-023-01206-5), [<span style="color:rgba(57, 110, 197, 1);">Code</span>](https://github.com/Tong89/Sustainability_5G)
+
+- **MobiFM: A Foundation Model for Mobile Data Forecasting**<br>Haoye Chai, Xiaoqian Qi, <u>Yibo Ma</u>, Zhaocheng Wang, Lei Yue, Yong Li~<br>IEEE *Journal on Selected Areas in Communications (JSAC)*, 2025.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://ieeexplore.ieee.org/document/11298194)
 
 - **Exploring Traffic Usage and Energy Consumption in 5G Networks: Overcoming Misalignment for Sustainability**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Li Yu<br>*In Submission*
 
-- **Mitigating Energy Consumption in Heterogeneous Mobile Networks through Data-Driven Optimization**<br><u>Yibo Ma</u>, Tong Li, Yan Zhou, Li Yu, Depeng Jin<br>IEEE *Transactions on Network and Service Management (TNSM)*, 2024.<br>[<span style="color:rgb(25, 32, 94);">Paper</span>](https://ieeexplore.ieee.org/abstract/document/10565848), [<span style="color:rgb(25, 32, 94);">Code</span>](https://github.com/tsinghua-fib-lab/REDEEM)
-
-- **Carbon emissions of 5G mobile networks in China**<br>Tong Li, Li Yu, <u>Yibo Ma</u>, Tong Duan, Wenzhen Huang, Yan Zhou, Depeng Jin, Yong Li~, Tao Jiang~<br>*Nature Sustainability*, 2023.<br>[<span style="color:rgb(25, 32, 94);">Paper</span>](https://www.nature.com/articles/s41893-023-01206-5), [<span style="color:rgb(25, 32, 94);">Code</span>](https://github.com/Tong89/Sustainability_5G)
-
 <br>
+
+## Preprints
+
+- **AI Agent Behavioral Science*<br>Lin Chen, Yunke Zhang, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, <u>Yibo Ma</u>, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, Yong Li~<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://arxiv.org/abs/2506.06366)
 
 ---
 
