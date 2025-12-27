@@ -31,7 +31,7 @@ title: Publications
 
 ## Preprints
 
-- **AI Agent Behavioral Science*<br>Lin Chen, Yunke Zhang, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, <u>Yibo Ma</u>, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, Yong Li~<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://arxiv.org/abs/2506.06366)
+- **AI Agent Behavioral Science**<br>Lin Chen, Yunke Zhang, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, <u>Yibo Ma</u>, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, Yong Li~<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://arxiv.org/abs/2506.06366)
 
 ---
 
