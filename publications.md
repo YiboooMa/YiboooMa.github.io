@@ -27,11 +27,12 @@ title: Publications
 
 - **Exploring Traffic Usage and Energy Consumption in 5G Networks: Overcoming Misalignment for Sustainability**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Li Yu<br>*In Submission*
 
-<br>
-
-## Preprints
 
 - **AI Agent Behavioral Science**<br>Lin Chen, Yunke Zhang, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, <u>Yibo Ma</u>, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, Yong Li~<br>*Humanities and Social Sciences Communications*, 2026.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://www.nature.com/articles/s41599-026-07316-7)
+
+<br>
+
+<!-- ## Preprints -->
 
 ---
 
