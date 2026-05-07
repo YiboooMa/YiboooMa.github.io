@@ -10,7 +10,7 @@ title: Publications
 
 - **Sustainable Connections: Exploring Energy Efficiency in 5G Networks**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Yong Li~<br>Proceedings of *the 20th International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2024)*.<br>Los Angeles, California, USA. December, 2024.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://doi.org/10.1145/3680121.3697806), [<span style="color:rgba(57, 110, 197, 1);">Data</span>](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5)
 
-- **TWINERGY: Digital Twin-Empowered Practical Energy Saving in Heterogeneous Mobile Networks**<br><u>Yibo Ma</u>, Haoye Chai, Sichang Liu,Li Yu, Yong Li~<br>*In Submission*
+- **Practical Energy Optimization for Heterogeneous Mobile Networks via Digital Twins**<br><u>Yibo Ma</u>, Tianxin Wang, Haoye Chai, Yong Li~, Mahesh K. Marina<br>*In Submission*
 
 - **RENEW: Enhancing Real-World Mobile Network Energy Efficiency Using Digital Twin Systems**<br><u>Yibo Ma</u>, Tong Li~, Yu Li, Haifeng Wang, Hongqiao Gao, Yong Li~<br>*In Submission*
 
@@ -31,7 +31,7 @@ title: Publications
 
 ## Preprints
 
-- **AI Agent Behavioral Science**<br>Lin Chen, Yunke Zhang, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, <u>Yibo Ma</u>, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, Yong Li~<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://arxiv.org/abs/2506.06366)
+- **AI Agent Behavioral Science**<br>Lin Chen, Yunke Zhang, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, <u>Yibo Ma</u>, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, Yong Li~<br>*Humanities and Social Sciences Communications*, 2026.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://www.nature.com/articles/s41599-026-07316-7)
 
 ---
 
