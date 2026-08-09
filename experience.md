@@ -27,3 +27,8 @@ title: Experience
     + Large-scale mobile network data analysis
     + Simulation of densely deployed 5G networks 
     + Energy saving algorithm design
+
+# Service:
+- Student Volunteer of *IEEE International Conference on Communications 2026 (ICC'26)* (2026-05).
+
+- Reviewer of *IEEE Wireless Communications and Networking Conference Workshops* 2026.

@@ -9,13 +9,14 @@ layout: page
 
 Here is **Yibo Ma (马義波)**.<br>
 
-I am a first-year Ph.D. student in the [**UKRI Centre for Doctoral Training in Machine Learning Systems (MLSys CDT)**](https://mlsystems.uk) at the University of Edinburgh, supervised by [**Prof. Mahesh K. Marina**](https://homepages.inf.ed.ac.uk/mmarina/) and [**Prof. Amos Storkey**](https://homepages.inf.ed.ac.uk/amos/). I am also a member of the [**Networked Systems (NetSys) Group**](https://netsys.inf.ed.ac.uk/). My research lies at the intersection of **Networking and ML Systems**, with a focus on building intelligent, efficient, and robust networked systems.
+I am a second-year Ph.D. student in the [**UKRI Centre for Doctoral Training in Machine Learning Systems (MLSys CDT)**](https://mlsystems.uk) at the University of Edinburgh, supervised by [**Prof. Mahesh K. Marina**](https://homepages.inf.ed.ac.uk/mmarina/) and [**Prof. Amos Storkey**](https://homepages.inf.ed.ac.uk/amos/). I am also a member of the [**Networked Systems (NetSys) Group**](https://netsys.inf.ed.ac.uk/). My research lies at the intersection of **Networking and ML Systems**, with a focus on building intelligent, efficient, and robust networked systems.
 
-Previously, I obtained my M.S. degree from Tsinghua University under the supervision of [**Prof. Yong Li**](https://fi.ee.tsinghua.edu.cn/~liyong/), where my thesis was awarded the Outstanding Thesis Award. I earned my B.S. degree from Tongji University, advised by [**Prof. Yaobao Yin**](https://mefaculty.tongji.edu.cn/info/1296/3241.htm).
+I obtained my M.S. degree from Tsinghua University under the supervision of [**Prof. Yong Li**](https://fi.ee.tsinghua.edu.cn/~liyong/), where my thesis was awarded the Outstanding Thesis Award. I earned my B.S. degree from Tongji University.
+<!-- I earned my B.S. degree from Tongji University, advised by [**Prof. Yaobao Yin**](https://mefaculty.tongji.edu.cn/info/1296/3241.htm). -->
 
 I am always open to discussions and collaborations. Feel free to reach out to me at <u>mayibo2hyh [at] gmail.com</u>.
 
-<!-- Here is my Resume: [Resume](./file/CV-Yibo_Ma.pdf) -->
+Here is my Resume: [Resume](./file/resume_Yibo_Ma.pdf)
 
 ---
 
@@ -31,6 +32,9 @@ My research envolves **measurement, simulation, and optimization of networked sy
 
 ## News and Updates
 
+- **Aug 2026：**🎉 Our paper CausalTune has been accepted by ACM SIGCOMM ’26! Bolun will present the work at the conference.
+- **Aug 2026：**🎉 I have successfully completed my first-year review. Many thanks to Prof. Mahesh K. Marina, Prof. Amos Storkey, and Prof. Rik Sarkar for their valuable feedback and suggestions..
+- **May 2026：**🎉 I completed my volunteering at ICC ’26. It was a great experience meeting many excellent researchers and learning from the insightful and cutting-edge research presentations.
 - **May 2025：**🎉 I successfully defended my Master’s thesis and was awarded the Outstanding Master’s Thesis by Tsinghua University (top 1 among 30+ students).
 - **Dec 2024：**🎤 I presented my work *Sustainable Connections: Exploring Energy Efficiency in 5G Networks* at ACM CoNEXT 2024, receiving great discussions and valuable feedback—thanks for the interest!
 - **Nov 2024：**🎉 I received the First-Class Chaozhou Talent Scholarship from Tsinghua University in recognition of my research work. I sincerely thank the sponsors and the university for this support and encouragement!

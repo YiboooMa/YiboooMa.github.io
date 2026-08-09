@@ -8,7 +8,9 @@ title: Publications
 
 ## Conference Papers
 
-- **Sustainable Connections: Exploring Energy Efficiency in 5G Networks**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Yong Li~<br>Proceedings of *the 20th International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2024)*.<br>Los Angeles, California, USA. December, 2024.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://doi.org/10.1145/3680121.3697806), [<span style="color:rgba(57, 110, 197, 1);">Data</span>](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5)
+- **Sustainable Connections: Exploring Energy Efficiency in 5G Networks**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Yong Li~<br>*ACM CoNEXT 2024*. Los Angeles, California, USA. December, 2024.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://doi.org/10.1145/3680121.3697806), [<span style="color:rgba(57, 110, 197, 1);">Data</span>](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5)
+
+- **CausalTune: Causal Learning based Automated Cellular RAN Configuration Tuning Framework**<br>Leyang Xue†, Bolun Zhang†, <u>Yibo Ma</u>, Mahesh Marina , He Yan, Yu Zhou, Cheuk Yiu Ip, Senthil Dhandapani, and James Klosowski<br>*ACM SIGCOMM 2026*. Denver, Colorado, USA. August, 2026.
 
 - **Practical Energy Optimization for Heterogeneous Mobile Networks via Digital Twins**<br><u>Yibo Ma</u>, Tianxin Wang, Haoye Chai, Yong Li~, Mahesh K. Marina<br>*In Submission*
 
@@ -19,11 +21,11 @@ title: Publications
 
 ## Journal Papers
 
-- **Mitigating Energy Consumption in Heterogeneous Mobile Networks through Data-Driven Optimization**<br><u>Yibo Ma</u>, Tong Li, Yan Zhou, Li Yu, Depeng Jin<br>IEEE *Transactions on Network and Service Management (TNSM)*, 2024.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://ieeexplore.ieee.org/abstract/document/10565848), [<span style="color:rgba(57, 110, 197, 1);">Code</span>](https://github.com/tsinghua-fib-lab/REDEEM)
+- **Mitigating Energy Consumption in Heterogeneous Mobile Networks through Data-Driven Optimization**<br><u>Yibo Ma</u>, Tong Li, Yan Zhou, Li Yu, Depeng Jin<br>*IEEE TNSM*, 2024.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://ieeexplore.ieee.org/abstract/document/10565848), [<span style="color:rgba(57, 110, 197, 1);">Code</span>](https://github.com/tsinghua-fib-lab/REDEEM)
 
 - **Carbon emissions of 5G mobile networks in China**<br>Tong Li, Li Yu, <u>Yibo Ma</u>, Tong Duan, Wenzhen Huang, Yan Zhou, Depeng Jin, Yong Li~, Tao Jiang~<br>*Nature Sustainability*, 2023.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://www.nature.com/articles/s41893-023-01206-5), [<span style="color:rgba(57, 110, 197, 1);">Code</span>](https://github.com/Tong89/Sustainability_5G)
 
-- **MobiFM: A Foundation Model for Mobile Data Forecasting**<br>Haoye Chai, Xiaoqian Qi, <u>Yibo Ma</u>, Zhaocheng Wang, Lei Yue, Yong Li~<br>IEEE *Journal on Selected Areas in Communications (JSAC)*, 2025.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://ieeexplore.ieee.org/document/11298194)
+- **MobiFM: A Foundation Model for Mobile Data Forecasting**<br>Haoye Chai, Xiaoqian Qi, <u>Yibo Ma</u>, Zhaocheng Wang, Lei Yue, Yong Li~<br>*IEEE JSAC*, 2025.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://ieeexplore.ieee.org/document/11298194)
 
 - **Exploring Traffic Usage and Energy Consumption in 5G Networks: Overcoming Misalignment for Sustainability**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Li Yu<br>*In Submission*
 
