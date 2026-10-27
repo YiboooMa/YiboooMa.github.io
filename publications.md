@@ -16,8 +16,6 @@ title: Publications
 
 - **CausalTune: Causal Learning based Automated Cellular RAN Configuration Tuning Framework**<br>Leyang Xue†, Bolun Zhang†, <u>Yibo Ma</u>, Mahesh Marina , He Yan, Yu Zhou, Cheuk Yiu Ip, Senthil Dhandapani, and James Klosowski<br>*ACM SIGCOMM 2026*. Denver, Colorado, USA. August, 2026.
 
-- **Practical Energy Optimization for Heterogeneous Mobile Networks via Digital Twins**<br><u>Yibo Ma</u>, Tianxin Wang, Haoye Chai, Yong Li~, Mahesh K. Marina<br>*In Submission*
-
 - **RENEW: Enhancing Real-World Mobile Network Energy Efficiency Using Digital Twin Systems**<br><u>Yibo Ma</u>, Tong Li~, Yu Li, Haifeng Wang, Hongqiao Gao, Yong Li~<br>*In Submission*
 
 <br>
@@ -41,7 +39,7 @@ title: Publications
 
 ## Posters & Demos
 
-- **WiP: TWINERGY-Towards Deployable Cell Shutdown with Network Digital Twins**<br><u>Yibo Ma</u>, Tianxin Wang, Haoye Chai, Yong Li~, Mahesh Marina<br>*ACM MobiHoc 2026*. Tokyo, Japan. November, 2026.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://dl.acm.org/doi/abs/10.1145/3795866.3844774)
+- **WiP: TWINERGY-Towards Deployable Cell Shutdown with Network Digital Twins**<br><u>Yibo Ma</u>, Tianxin Wang, Haoye Chai, Yong Li~, Mahesh Marina<br>*ACM MobiCom 2026*. Austin, Texas, USA. October, 2026.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://dl.acm.org/doi/abs/10.1145/3795866.3844774)
 
 
 <br>
