@@ -8,6 +8,10 @@ title: Publications
 
 ## Conference Papers
 
+
+- **TWINERGY: Digital Twin Empowered Practical Energy Saving in Heterogeneous Mobile Networks**<br><u>Yibo Ma</u>, Tianxin Wang, Haoye Chai, Yong Li~, Mahesh Marina<br>*ACM MobiHoc 2026*. Tokyo, Japan. November, 2026.<br>
+<!-- [<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://doi.org/10.1145/3680121.3697806), [<span style="color:rgba(57, 110, 197, 1);">Data</span>](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5) -->
+
 - **Sustainable Connections: Exploring Energy Efficiency in 5G Networks**<br><u>Yibo Ma</u>, Tong Li~, Yuwei Du, Schahram Dustdar, Zhaocheng Wang, Yong Li~<br>*ACM CoNEXT 2024*. Los Angeles, California, USA. December, 2024.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://doi.org/10.1145/3680121.3697806), [<span style="color:rgba(57, 110, 197, 1);">Data</span>](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5)
 
 - **CausalTune: Causal Learning based Automated Cellular RAN Configuration Tuning Framework**<br>Leyang Xue†, Bolun Zhang†, <u>Yibo Ma</u>, Mahesh Marina , He Yan, Yu Zhou, Cheuk Yiu Ip, Senthil Dhandapani, and James Klosowski<br>*ACM SIGCOMM 2026*. Denver, Colorado, USA. August, 2026.
@@ -31,6 +35,14 @@ title: Publications
 
 
 - **AI Agent Behavioral Science**<br>Lin Chen, Yunke Zhang, Jie Feng, Haoye Chai, Honglin Zhang, Bingbing Fan, <u>Yibo Ma</u>, Shiyuan Zhang, Nian Li, Tianhui Liu, Nicholas Sukiennik, Keyu Zhao, Yu Li, Ziyi Liu, Fengli Xu, Yong Li~<br>*Humanities and Social Sciences Communications*, 2026.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://www.nature.com/articles/s41599-026-07316-7)
+
+<br>
+
+
+## Posters & Demos
+
+- **WiP: TWINERGY-Towards Deployable Cell Shutdown with Network Digital Twins**<br><u>Yibo Ma</u>, Tianxin Wang, Haoye Chai, Yong Li~, Mahesh Marina<br>*ACM MobiHoc 2026*. Tokyo, Japan. November, 2026.<br>[<span style="color:rgba(57, 110, 197, 1);">Paper</span>](https://dl.acm.org/doi/abs/10.1145/3795866.3844774)
+
 
 <br>
 

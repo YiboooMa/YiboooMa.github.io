@@ -32,8 +32,11 @@ My research envolves **measurement, simulation, and optimization of networked sy
 
 ## News and Updates
 
+
+- **Oct 2026：** 🎉 Our work **TWINERGY** has been accepted by [**ACM MobiHoc 2026**](https://www.sigmobile.org/mobihoc/2026/accepted-papers.html)! See you in Tokyo this November!
 - **Aug 2026：**🎉 Our paper CausalTune has been accepted by ACM SIGCOMM ’26! Bolun will present the work at the conference.
-- **Aug 2026：**🎉 I have successfully completed my first-year review. Many thanks to Prof. Mahesh K. Marina, Prof. Amos Storkey, and Prof. Rik Sarkar for their valuable feedback and suggestions..
+- **Aug 2026：**🎉 I have successfully completed my first-year review. Many thanks to Prof. Mahesh K. Marina, Prof. Amos Storkey, and Prof. Rik Sarkar for their valuable feedback and suggestions.
+- **Jul 2026：** 🎤 I presented our work on network digital twins and use cases at the [**Next Generation Networking, Multi-Service Networks workshop**](https://coseners.qmul.ac.uk/coseners-2026/) in Oxford. I gained many valuable insights. Thanks to everyone for the interest and conversations!
 - **May 2026：**🎉 I completed my volunteering at ICC ’26. It was a great experience meeting many excellent researchers and learning from the insightful and cutting-edge research presentations.
 - **May 2025：**🎉 I successfully defended my Master’s thesis and was awarded the Outstanding Master’s Thesis by Tsinghua University (top 1 among 30+ students).
 - **Dec 2024：**🎤 I presented my work *Sustainable Connections: Exploring Energy Efficiency in 5G Networks* at ACM CoNEXT 2024, receiving great discussions and valuable feedback—thanks for the interest!

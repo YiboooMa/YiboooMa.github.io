@@ -29,6 +29,9 @@ title: Experience
     + Energy saving algorithm design
 
 # Service:
+
+- Reviewer of *IEEE Transactions on Green Communications and Networking* (2026).
+
 - Student Volunteer of *IEEE International Conference on Communications 2026 (ICC'26)* (2026-05).
 
 - Reviewer of *IEEE Wireless Communications and Networking Conference Workshops* 2026.
